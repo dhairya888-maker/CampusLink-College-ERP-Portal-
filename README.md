@@ -44,7 +44,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/campus-link.git](https://github.com/your-username/campus-link.git)
+    git clone [https://github.com/dhairya888-maker/CampusLink-College-ERP-Portal-](https://github.com/dhairya888-maker/CampusLink-College-ERP-Portal-)
     cd campus-link
     ```
 
