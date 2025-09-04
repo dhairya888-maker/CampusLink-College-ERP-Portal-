@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COLLEGE ERP
 
 College ERP using MERN Stack
@@ -61,3 +62,6 @@ https://user-images.githubusercontent.com/90241373/156794428-1a73579c-8116-45dd-
 Student
 
 https://user-images.githubusercontent.com/90241373/156794474-1ba1d10e-30c8-4ce7-881b-520d7ab6aec6.mp4
+=======
+# CampusLink-College-ERP-Portal-
+>>>>>>> 4ed311fb990f81a5f51bf4e4f0e727e4704e2ddb
